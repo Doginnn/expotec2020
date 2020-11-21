@@ -16,3 +16,9 @@ Dia 27
 - [Instagram](https://www.instagram.com/expotecbr/)
 - [Facebook](https://www.facebook.com/ExpotecBR/)
 - [Twitter](https://twitter.com/EXPOTECBR)
+
+## About me
+Diógenes Dantas
+- Site Oficial - [Site](https://doginnn.github.io)
+- [Instagram](https://www.instagram.com/doginnndantas/)
+- [Linkedin](https://www.linkedin.com/in/doginnn/)
